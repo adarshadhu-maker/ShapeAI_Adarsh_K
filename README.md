@@ -1,3 +1,9 @@
+[Adarsh_K.ipynb.txt](https://github.com/adarshadhu-maker/ShapeAI_Adarsh_K/files/6499728/Adarsh_K.ipynb.txt)
+[Adarsh_K.ipynb (1).txt](https://github.com/adarshadhu-maker/ShapeAI_Adarsh_K/files/6499730/Adarsh_K.ipynb.1.txt)
+[Adarsh_K.ipynb (1).txt](https://github.com/adarshadhu-maker/ShapeAI_Adarsh_K/files/6499732/Adarsh_K.ipynb.1.txt)
+[Adarsh_K.ipynb.txt](https://github.com/adarshadhu-maker/ShapeAI_Adarsh_K/files/6499734/Adarsh_K.ipynb.txt)
+[Adarsh_K.ipynb.txt](https://github.com/adarshadhu-maker/ShapeAI_Adarsh_K/files/6499736/Adarsh_K.ipynb.txt)
+[Adarsh_K.ipynb (1).txt](https://github.com/adarshadhu-maker/ShapeAI_Adarsh_K/files/6499737/Adarsh_K.ipynb.1.txt)
 # SHAPEAI PYTHON AND DEEP LEARNING BOOTCAMP
 
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
